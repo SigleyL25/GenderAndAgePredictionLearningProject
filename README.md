@@ -1,2 +1,2 @@
 # GenderAndAgePredictionLearningProject
-Research Tutorial for OpenCV library with Python
+Learning project
